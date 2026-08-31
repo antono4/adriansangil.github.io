@@ -1,1 +1,26 @@
-Last updated: 2026-08-31 13:16:27 WIB
+# adriansangil.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **40 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-31 18:43:00 WIB*
